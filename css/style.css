@@ -1,0 +1,12 @@
+.carousel {
+    width: 1300px;
+    height: 800px;
+    margin-top: 15px;
+}
+.card 
+    .card-body {
+    background-color:#d7b8e9; 
+}
+.section {
+    background-image: url("/img/24668.jpg") center center/cover no-repeat;
+}
